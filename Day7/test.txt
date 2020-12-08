@@ -1,0 +1,10 @@
+shiny gold bags contain 3 posh green bags, 2 dull white bags.
+posh green bags contain 5 light gold bag, 3 faded coral bags, 2 dark brown bag.
+light gold bags contain no other bags.
+faded coral bags contain no other bags.
+dark brown bags contain no other bags.
+dull white bags contain 3 dotted gray bag, 4 light maroon bags.
+dotted gray bags contain no other bags.
+light maroon bags contain 2 dim plum bag, 4 light violet bags.
+dim plum bags contain no other bags.
+light violet bags contain no other bags.
