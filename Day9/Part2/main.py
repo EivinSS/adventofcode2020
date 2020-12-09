@@ -16,11 +16,11 @@ for x in range(len(content)):
         
         sum += int(content[x+y])
         
-        if sum > 22406676:
+        if sum > number:
             print('To high')
             break
         
-        if sum == 22406676:
+        if sum == number:
             print('Found! first: ' + str(content[x]) + ', last: ' + str(content[x+y]) + ', in the set')
             found = True
             index_first = content.index((content[x]))
