@@ -36,7 +36,7 @@ for (let i = 0; i < departures.length; i++) {
 
 var Found = false
 var timestamp = 34398423618
-//Use this the first iteration: var timestamp = -index_max
+//var timestamp = -index_max
 
 while (!Found) {
     for (let i = 0; i < departures.length; i++) {
@@ -53,7 +53,7 @@ while (!Found) {
             }
             else {
                 timestamp = timestamp + 1534938432833;
-                //Use this the first iuteration: timestamp = timestamp + max
+                //timestamp = timestamp + max
                 break
             }
         }
